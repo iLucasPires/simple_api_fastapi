@@ -57,6 +57,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [Docker Documentation](https://docs.docker.com/)
 - [SQLAlchemy Documentation](https://docs.sqlalchemy.org/)
-- [pgAdmin Documentation](https://www.pgadmin.org/docs/)
